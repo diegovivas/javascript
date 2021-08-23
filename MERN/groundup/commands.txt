@@ -1,0 +1,4 @@
+brew services start mongodb-community@5.0 start mongodb
+brew services stop mongodb-community@5.0 srop mongodb
+yarn add --dev @babel/core babel-loader @babel/preset-env install babel as devDependecies
+yarn add --dev webpack webpack-cli webpack-node-externals install webpack to compile and buldle the server-side code using babel
